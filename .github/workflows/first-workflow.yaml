@@ -1,4 +1,4 @@
-name: First WorkflowTest
+name: First WorkflowTest2
 on:
   push:
     branches:
