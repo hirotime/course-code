@@ -1,8 +1,8 @@
-name: First WorkflowTest2
+name: First WorkflowTest3
 on:
   push:
     branches:
-      - main
+      - "feature/test"
 
 jobs:
   run-shell-commands:
